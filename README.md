@@ -10,13 +10,13 @@ Hola
 - :zap: I solve problems and read tech articles in my free time.
 
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/victoria-adedayo/)">
+  <a href="https://www.linkedin.com/in/victoria-adedayo/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://victoriaadedayo.hashnode.dev/)">
+  <a href="https://victoriaadedayo.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/Vickish11)">
+  <a href="https://twitter.com/Vickish11">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
