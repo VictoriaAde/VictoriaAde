@@ -1,9 +1,9 @@
 <div id="header" align="left">
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hola
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- :telescope: My name is Victoria, I am working as a front-end developer.
+- :telescope: mi nombre es Victoria, I am a Front-END Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -44,9 +44,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictoriaAde&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictoriaAde&theme=dark&background=0D1117&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaAde&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaAde&layout=compact&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VictoriaAde/VictoriaAde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
