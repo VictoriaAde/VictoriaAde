@@ -43,9 +43,6 @@ Hola
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictoriaAde&theme=dark&background=0D1117&hide_border=true)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaAde&layout=compact&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -61,4 +58,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictoriaAde&theme=dark&background=0D1117&hide_border=true)](https://git.io/streak-stats)
 -->
